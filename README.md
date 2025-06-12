@@ -86,7 +86,7 @@ docker run -d \
   -e MONGO_URL="mongodb://admin:secret@mongo-container:27017" \
   task-backend
 
-## Screenshots
+## Screenshots (if images doesnt load, check in the images folder)
 ### 📦 Curl Output
 ![Curl](images/image.png)
 
