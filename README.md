@@ -87,10 +87,10 @@ docker run -d \
   task-backend
 
 ## Screenshots
-![Curl](image.png)
-![Curl](image-1.png)
-![Docker Containers](image-2.png)
-![Docker Hub Image](image-3.png)
+![Curl](./image.png)
+![Curl](./image-1.png)
+![Docker Containers](./image-2.png)
+![Docker Hub Image](./image-3.png)
 
 ## Explanation of the creative enhancement.
 To simulate load balancing, I manually ran multiple instances of the backend service on different ports:
