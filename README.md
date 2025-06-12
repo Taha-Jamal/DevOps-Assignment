@@ -88,16 +88,16 @@ docker run -d \
 
 ## Screenshots
 ### 📦 Curl Output
-![Curl](Backend/images/image.png)
+![Curl](images/image.png)
 
 ### 📬 Curl Output with load balancer
-![Curl](Backend/images/image-1.png)
+![Curl](images/image1.png)
 
 ### 🐳 Docker Containers Running
-![Docker Containers](Backend/images/image-2.png)
+![Docker Containers](images/image2.png)
 
 ### ☁️ Docker Hub Repository
-![Docker Hub Image](Backend/images/image-3.png)
+![Docker Hub Image](images/image3.png)
 
 ## Explanation of the creative enhancement.
 To simulate load balancing, I manually ran multiple instances of the backend service on different ports:
